@@ -1,0 +1,13 @@
+
+logging:
+  level:
+    ROOT: info
+
+server:
+  port:  2222
+
+
+behavioral:
+  strategy:
+    className: com.hyc.designparttern.behavioral.strategy.ConcreteStrategyB
+
